@@ -1,0 +1,13 @@
+{
+  "name": "tea-nações-multiplayer",
+  "version": "6.0.0",
+  "private": true,
+  "description": "TEA: jogo de estratégia diplomática e economia compartilhada",
+  "type": "commonjs",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "license": "UNLICENSED"
+}
